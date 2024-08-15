@@ -35,7 +35,7 @@ echo ""
 
 }     
 
-login_user() {
+login_user(noedzzz) {
 
 
 if [[ $user == "" ]]; then
